@@ -1,9 +1,9 @@
 # x230-coreboot
-coreboot built for thnkpad x230.
+coreboot built for thinkpad x230.
 
 12m image for the x230, with vga in "native" mode, seabios and all the secondary payloads added.
 
-time wait menu reduced to 1 second only.
+seabios time-wait-menu reduced to 1 second only.
 
 Bootspash added.
 
