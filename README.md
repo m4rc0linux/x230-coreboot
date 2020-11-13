@@ -16,3 +16,5 @@ For me worked:
 sudo flashrom -p internal:laptop=force_I_want_a_brick -w m4rc0x230.rom --ifd --image bios -V
 
 To compile a different version the "config" file could be a starting point.
+
+To see how this (or my others built images) works, just have a look into my youtube https://www.youtube.com/user/marcolinoxz
